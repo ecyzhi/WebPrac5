@@ -17,12 +17,12 @@
             <br />
             (All users including anonymous users)<br />
             <br />
-            <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/MyAccount.aspx">Edit My Account</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/MyAccount/MyAccount.aspx">Edit My Account</asp:HyperLink>
 
             <br />
             (All authenticated users)<br />
             <br />
-            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Maintenance.aspx">Maintain Data Tables</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Maintenance/Maintenance.aspx">Maintain Data Tables</asp:HyperLink>
             <br />
             (Only users associated with the Admin role)
 
