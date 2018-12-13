@@ -12,7 +12,7 @@
             The Halloween Store - My Account<br />
             (Only authenticated users can access this page.)<br />
             <br />
-            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/ChangePassword.aspx">Change Password</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/MyAccount/ChangePassword.aspx">Change Password</asp:HyperLink>
             <br />
             <br />
             <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="#">Track Packages</asp:HyperLink>
